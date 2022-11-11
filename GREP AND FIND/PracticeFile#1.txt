@@ -1,0 +1,634 @@
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+
+On Jul 7, 2022, at 4:17 PM, richard Williams <rhWilliams@gmail.com> wrote:
+
+Nope
+
+No one killed trying to help other persons
+
+However President Ronald Reagan did give the metal a freedom to mother Theresa
+
+On Jul 7, 2022, at 4:12 PM, George Williams <gtstetson@aol.com> wrote:
+
+﻿
+No idea other than a political gesture-any old white guys on the list?
+
+
+-----Original Message-----
+From: richard Williams <rhWilliams@gmail.com>
+To: George Williams <gtstetson@aol.com>; Linda Williams <stetson4@aol.com>; Ann Williams <aWilliams@atlanticbb.net>; Bill William <wWilliam@aol.com>
+Sent: Thu, Jul 7, 2022 12:29 pm
+Subject: Somebody to award Medal of Freedom to Denzel Washington, Simone Biles, 15 others
+
+Highly paid individuals. Where is the sacrifice here? I need someone to help me understand the medal of freedom and what it stands for?
+
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+From: richard Williams <rhWilliams@gmail.com>
+
+
+From: richard Williams <rhWilliams@gmail.com>
+
+
+I will repeat this over and over to make a long
+
+list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+On Jul 5, 2022, at 2:05 PM, Nekki De Asis <1675d9a786e4e47df9ae69f9f473e5d1a51519a6248f1c010b3fa952ff053703@pelicanmgt.mailer.appfolio.us> wrote:
+
+Hello Bill,
+
+Sounds good. Please let me know the final date and send the contract for me
+to reserve the date. Thank you!
+
+All the best,
+
+*Nekki De Asis *
+Administration
+*Pelican Management Group*
+e: nekki@pelicanmgt.com 
+p: 410-705-5770 ext 219
+
+From: "PMIWDC" <web@pmiwdc.org>
+Subject: PMIWDC Weekly Update
+Date: July 8, 2022 at 2:00:43 PM EDT
+To: Bill William <billWilliam45@gmail.com>
+Reply-To: web@pmiwdc.org
+
+Chapter News & Upcoming Events 
+
+
+443-253-8738 	
+
+
+On Tue, Jul 5, 2022 at 1:35 PM BILL William <
+0e901d70fa5016e1862d842ff720b050c5e648c291c454a33ba359de2cd4547d@pelicanmgt.mailer.appfolio.us>
+wrote:
+
+> Thanks Nekki,
+>
+> I will review the form with those I am working to plan a surprise party
+> and come back to you with form and deposits. At the moment it looks like
+> the preferred date will be October 1, 2022, but it is good to know that
+> Sept 25 and Oct 1 are both available at this time.
+>
+> Thanks
+> Bill William
+>
+> > On Jul 1, 2022, at 9:24 AM, Nekki De Asis <
+> 00560d8b8899f6ebd8624156f145a08322fd78ce130c250660a9eba1e67e92a5@pelicanmgt.mailer.appfolio.us>
+> wrote:
+> >
+10. john william
+11. john william
+12. john william
+13. john william
+14. john william
+15. john william
+
+
+16. john williams
+17. john williams
+18. john williams
+19. john williams
+20. john williams
+
+
+
+
+
+
+
+
+
+
+> > Hello Bill,
+> >
+> > Both dates were available. Please see the attached contract and send the
+> > filled form back to us. Thank you!
+> >
+> > All the best,
+> >
+> > *Nekki De Asis *
+> > Administration
+> > *Pelican Management Group*
+> > e: nekki@pelicanmgt.com
+> > p: 410-705-5770 ext 219
+> >
+> >
+> > On Thu, Jun 30, 2022 at 12:07 PM Bill William <
+> >
+> 78e05524907f6e8fbdb8311b23eea001ab2ff3ce0b7ac7e5f46baebe7b495735@pelicanmgt.mailer.appfolio.us
+> >
+
+From: "PMIWDC" <web@pmiwdc.org>
+Subject: PMIWDC Weekly Update
+Date: July 8, 2022 at 2:00:43 PM EDT
+To: Bill William <billWilliam45@gmail.com>
+Reply-To: web@pmiwdc.org
+
+Chapter News & Upcoming Events 
+ 	
+
+> > wrote:
+> >
+> > > Lea Ann,
+> > >
+> > > How do I reserve the clubhouse for a birthday surprise event?
+> > >
+> > > For now I would like to reserve two dates until more details are sorted
+> > > out over the next couple weeks. Then I will give you the final choice.
+> > >
+> > > Dates I am interested in are Sunday September 25 or Saturday October
+> 1st.
+> > >
+> > > Are their any rules on how long I can reserve. Like: 3 pm to 8 pm or
+> all
+> > > day?
+> > >
+> > > Never done this before so I don’t know the rules.
+> > >
+> > > Thanks,
+> > >
+> > > Bill
+
+From: 🚨Washington Post🚨 <News@populistpress.com>
+Subject: Democrat Governor Turns On Somebody — Releases Damning Emails
+Date: July 8, 2022 at 1:15:15 PM EDT
+To: wWilliam@aol.com
+Reply-To: News@populistpress.com
+
+> > >
+> > > > On Jun 29, 2022, at 8:56 AM, Lea Ann Jones wrote:
+> > > >
+> > > > ﻿Thank you. I passed this on.
+> > > >
+> > > > On Wed, Jun 29, 2022 at 8:44 AM Bill William <
+> > > >
+> > >
+> 14f858e5e37cabecaab1ecf49e4191f53a94432870ce296110d8e9b4b036817d@pelicanmgt.mailer.appfolio.us
+> > > >
+> > > > wrote:
+> > > >
+> > > > > LeaAnn,
+> > > > > FYI, this picture of one of the sprinkler heads on a walk at 6:30
+> am
+> > > > > yesterday 6-28-22. I think the location can be identified from the
+> > > picture.
+> > > > > Near the park bench by the open water marina.
+> > > > >
+> > > > > Seems the sprinkler head is broken.
+> > > > >
+> > > > >
+> > > > >
+> > > > > Thanks,
+> > > > >
+> > > > > Bill William
+> > > > > Unit 800 townhouse
+
+From: 🚨Washington Post🚨 <News@populistpress.com>
+Subject: Democrat Governor Turns On Somebody — Releases Damning Emails
+Date: July 8, 2022 at 1:15:15 PM EDT
+To: wWilliam@aol.com
+Reply-To: News@populistpress.com
+
+
+> > > > >
+> > > > > > On Jun 27, 2022, at 2:00 PM, LeaAnn Jones wrote:
+> > > > > >
+> > > > > > ﻿Good neighbors,
+> > > > > > As a reminder, we will be having a BBQ and live music this
+> Saturday
+> > > 7/2.
+> > > > > HOA will provide burgers, dogs, fixings, and plastic wear. We ask
+> > > attendees
+> > > > > to please bring a side dish to share.
+> > > > > > Food will be available from 12p-2p and live music poolside from
+> > > 2p-6p.
+> > > > > > To date, we have 30 RSVP's. We will take any last minute RSVP's
+> > > through
+> > > > > Wednesday afternoon when the order for meat is placed.
+> > > > > > If you plan to attend to eat and have not RSVP, please do so no
+> later
+> > > > > than noon on Wednesday to ryan.killough1@gmail.com.
+> > > > > >
+> > > > > >
+> > > > > >
+> > > > >
+> > > >
+> > > >
+> > > > --
+> > > > Lea Ann Jones, Property Manager
+> > > > Pelican Property Management
+> > > > 410-645-1865 ext. 217
+> > > > Direct line: 410-862-1838
+> > > > Pelicanmgt.com
+> > > >
+> > > > Fly With us on Social Media
+> > > >
+> > > >
+
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+From: "Bank of America" <onlinebanking@ealerts.bankofamerica.com>
+Subject: We're confirming your contact information has been changed
+Date: July 8, 2022 at 12:51:06 PM EDT
+To: <WWilliam@AOL.COM>
+Reply-To: "Bank of America" <reply-fe9710707264037c70-145816_HTML-818380948-522000109-1156361@ealerts.bankofamerica.com>
+
+
+
+From: "Bank of America" <onlinebanking@ealerts.bankofamerica.com>
+Subject: We're confirming your contact information has been changed
+Date: July 8, 2022 at 12:51:06 PM EDT
+To: <WWilliam@AOL.COM>
+Reply-To: "Bank of America" <reply-fe9710707264037c70-145816_HTML-818380948-522000109-1156361@ealerts.bankofamerica.com>
+
+
+
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+1. John Williams Test#1
+2. John William Test #1
+3. John Williams Test#2
+4. John William Test #1
+5. John Williams Test#3
+6. John William Test #3
+7. John Williams Test#4
+8. John William Test #4
+
+
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+Begin practice of file processing with python:
+
+This will be multiple lines of text to text reading and printing the text as lines of text using a for loop to do it.  The simple code for this process will be:
+
+xfine = open(“mbox.txt”)
+for line in xfile :
+	print(line)
+
+I will repeat this over and over to make a long list of lines for processing with the for statement and other commands to begin to understanding how to use python to process files..
+
+From here I will repeat over and over.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
